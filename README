@@ -1,10 +1,15 @@
-# Group 3 Project
+# Group 3 Project - Section 2
 Analytics Project
 
 Group Members:
-- Nadim Abouchaar Helo
+- Nadim Abou Chaar
 - Sally Sha Li Xu
+
+UNI:
+-NA2937
+-
 
 Description:
  The content includes two python files: 'Top10' and 'Parking'.
- 
+ We decided to go with Sally's Zip Code to perform the analytsis.
+ We discovered that the ratio of  illegal parking incidents are a smaller fraction of total 311 incidents in our Zip code than in NYC.
