@@ -7,9 +7,9 @@ Group Members:
 
 UNI:
 -NA2937
--
+-SX2301
 
 Description:
  The content includes two python files: 'Top10' and 'Parking'.
- We decided to go with Sally's Zip Code to perform the analytsis.
+ We decided to go with Sally's Zip Code to perform the analysis.
  We discovered that the ratio of  illegal parking incidents are a smaller fraction of total 311 incidents in our Zip code than in NYC.
